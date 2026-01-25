@@ -1,7 +1,10 @@
 package edu.emir.khaled.actividad1;
 
+import edu.emir.khaled.actividad1.UI.CLI;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hola");
+        CLI interfazUsuario = new CLI();
+        interfazUsuario.iniciar();
     }
 }
