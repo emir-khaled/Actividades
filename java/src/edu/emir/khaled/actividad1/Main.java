@@ -1,5 +1,4 @@
 package edu.emir.khaled.actividad1;
-//este es main
 
 import edu.emir.khaled.actividad1.UI.CLI;
 
